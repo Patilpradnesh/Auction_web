@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/jest-dom": "^5.11.9"
+  }
+}
